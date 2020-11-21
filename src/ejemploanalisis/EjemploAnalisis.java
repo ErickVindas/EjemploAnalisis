@@ -14,5 +14,7 @@ public class EjemploAnalisis {
         
     }
 
-    //public
+    public int division(int a,int b){
+    return a/b;
+    }
 }
